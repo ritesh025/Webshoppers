@@ -85,4 +85,5 @@ To run tests, run the following command
 
 
 ## Screenshots
-
+! [Website Screenshots] (![Screenshot 2025-02-15 191213](https://github.com/user-attachments/assets/0cc1cb9f-2a67-40ac-8cb1-cb9560837d9c)
+)
