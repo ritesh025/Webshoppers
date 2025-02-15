@@ -85,12 +85,12 @@ To run tests, run the following command
 
 
 ## Screenshots
-! [Website Screenshots] (![Screenshot 2025-02-15 191213](https://github.com/user-attachments/assets/0cc1cb9f-2a67-40ac-8cb1-cb9560837d9c)
+ (![Screenshot 2025-02-15 191213](https://github.com/user-attachments/assets/0cc1cb9f-2a67-40ac-8cb1-cb9560837d9c)
 )
-! [Website Screenshots] (![Screenshot 2025-02-15 191242](https://github.com/user-attachments/assets/26676460-4cbf-49c5-9144-34f54116abab)
+ (![Screenshot 2025-02-15 191242](https://github.com/user-attachments/assets/26676460-4cbf-49c5-9144-34f54116abab)
 )
-! [Website Screenshots] (![Screenshot 2025-02-15 191343](https://github.com/user-attachments/assets/edc8212e-fd97-4b98-9e0c-72d66fb0fe56)
+(![Screenshot 2025-02-15 191343](https://github.com/user-attachments/assets/edc8212e-fd97-4b98-9e0c-72d66fb0fe56)
 )
-! [Website Screenshots] (![Screenshot 2025-02-15 191419](https://github.com/user-attachments/assets/e02eb698-401e-4b65-ba9f-37e8f85a43c3)
+ (![Screenshot 2025-02-15 191419](https://github.com/user-attachments/assets/e02eb698-401e-4b65-ba9f-37e8f85a43c3)
 )
 
