@@ -86,7 +86,3 @@ To run tests, run the following command
 
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/rites/OneDrive/Pictures/Screenshots/Screenshot%202025-02-14%20175118.png)
-
-![App Screenshot](file:///C:/Users/rites/OneDrive/Pictures/Screenshots/Screenshot%202025-02-14%20175206.png)
-
